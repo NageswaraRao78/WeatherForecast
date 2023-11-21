@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "WeatherApp"
 include(":app")
 include(":Apputils")
+include(":loginmodule")
