@@ -1,0 +1,3 @@
+[submodule "Apputils"]
+	path = Apputils
+	url = https://github.com/NageswaraRao78/Apputils.git
