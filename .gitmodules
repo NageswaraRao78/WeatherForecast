@@ -1,6 +1,0 @@
-[submodule "Apputils"]
-	path = Apputils
-	url = https://github.com/NageswaraRao78/Apputils.git
-[submodule "Weather/loginmodule/loginmodule"]
-	path = Weather/loginmodule/loginmodule
-	url = https://github.com/NageswaraRao78/loginmodule.git
